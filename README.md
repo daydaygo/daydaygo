@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🎉 Welcome to my GitHub profile!
 
-I'm daydaygo - a PHP developer, and Open source contributor.
+I'm daydaygo - a Senior Architect / Tech Manager, and Open source contributor.
 
 I'm working for [Hyperf](https://github.com/hyperf).
 
