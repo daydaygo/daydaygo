@@ -1,3 +1,7 @@
+# daydaygo
+
+[![My Skills](https://skillicons.dev/icons?i=aiscript,anaconda,aws,bun,django,docker,fastapi,firebase,github,go,php,py,ai,mysql,nginx,js,nodejs,html,css,ubuntu,vscode,wasm)](https://skillicons.dev)
+
 ### Hi there 👋
 
 <!--
@@ -6,8 +10,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Hyperf](https://github.com/hyperf)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning AI engineering
+- 👯 I’m looking to collaborate on AI application development framework
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -21,7 +25,13 @@ Here are some ideas to get you started:
 
 I'm daydaygo - a Senior Architect / Tech Manager, and Open source contributor.
 
-I'm working for [Hyperf](https://github.com/hyperf).
+I grow by sharing what I learn! I grew up in China and am currently working in China Shanghai.
+
+
+- 🔭 I’m currently working on [Hyperf](https://github.com/hyperf)
+- 🌱 I’m currently learning AI engineering
+- 👯 I’m looking to collaborate on AI application development framework
+- 🎨 blog: https://www.jianshu.com/u/281dc8d93b25
 
 <!--
 Hyperf is the best framework for me.
