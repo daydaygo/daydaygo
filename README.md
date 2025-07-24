@@ -1,6 +1,6 @@
 # daydaygo
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,aws,bun,django,docker,fastapi,firebase,github,go,php,py,ai,aiscript,postgres,mysql,nginx,js,nodejs,html,css,wasm,ubuntu,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,php,py,ai,aiscript,anaconda,django,fastapi,js,nodejs,bun,html,css,wasm,ubuntu,vscode,docker,aws,firebase,github,postgres,mysql,nginx)](https://skillicons.dev)
 
 ### Hi there 👋
 
@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- https://github.com/tandpfun/skill-icons
 -->
 
 <img src="https://avatars2.githubusercontent.com/u/44228082?s=200&v=4" align="right" height="150">
