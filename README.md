@@ -1,6 +1,6 @@
 # daydaygo
 
-[![My Skills](https://skillicons.dev/icons?i=aiscript,anaconda,aws,bun,django,docker,fastapi,firebase,github,go,php,py,ai,mysql,nginx,js,nodejs,html,css,ubuntu,vscode,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,aws,bun,django,docker,fastapi,firebase,github,go,php,py,ai,aiscript,postgres,mysql,nginx,js,nodejs,html,css,wasm,ubuntu,vscode)](https://skillicons.dev)
 
 ### Hi there 👋
 
